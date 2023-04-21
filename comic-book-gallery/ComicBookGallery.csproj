@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>comic_book_gallery</RootNamespace>
+    <RootNamespace>ComicBookGallery</RootNamespace>
   </PropertyGroup>
 
 </Project>
